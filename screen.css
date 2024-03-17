@@ -1,1 +1,10 @@
-/* Add screen styles below */
+#books {
+    width: 100%;
+    border-collapse: collapse;
+}
+  
+#books th, #books td {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+}
